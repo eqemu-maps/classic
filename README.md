@@ -1,2 +1,4 @@
 # classic
-Classic Expansion Maps
+
+Classic Expansion Quests and Navigation Data
+
