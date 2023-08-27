@@ -4,7 +4,7 @@ build:
 	mkdir -p bin
 	-rm -rf bin/*
 	make pull-maps
-	zip -9pr maps.zip base nav water
+	zip -9pr maps.zip base nav water LICENSE
 	mv maps.zip bin/maps.zip
 	make pull-quests
 	zip -9pr quests.zip quests
